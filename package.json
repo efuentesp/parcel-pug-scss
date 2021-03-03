@@ -27,7 +27,7 @@
     "styles": "^0.2.1"
   },
   "devDependencies": {
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sass": "^1.22.9"
   }
 }
